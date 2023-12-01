@@ -1,5 +1,7 @@
 ### Software IT Department
 
+[Move to Java page](https://github.com/leehyunsuck/Java)
+
 ### 수 정 중
 
 <h3 align="left">Languages and Tools:</h3>
