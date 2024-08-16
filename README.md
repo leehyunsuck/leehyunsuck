@@ -1,6 +1,5 @@
 ### Software IT Department
 
-### 수 정 중
 
 <h3 align="left">Languages and Tools:</h3>
 
